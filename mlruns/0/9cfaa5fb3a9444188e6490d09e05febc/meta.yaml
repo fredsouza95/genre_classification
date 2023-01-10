@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/9cfaa5fb3a9444188e6490d09e05febc/artifacts
+end_time: 1673313455927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cfaa5fb3a9444188e6490d09e05febc
+run_name: aged-donkey-536
+run_uuid: 9cfaa5fb3a9444188e6490d09e05febc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673313326268
+status: 3
+tags: []
+user_id: frederico.souza

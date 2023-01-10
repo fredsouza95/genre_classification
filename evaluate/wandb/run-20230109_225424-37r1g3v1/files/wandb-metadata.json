@@ -1,0 +1,82 @@
+{
+    "os": "Linux-5.11.0-27-generic-x86_64-with-glibc2.31",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-10T01:54:25.062095",
+    "startedAt": "2023-01-10T01:54:24.448824",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/frederico.souza/Repos_personal/genre_classification/evaluate/run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/fredsouza95/genre_classification.git",
+        "commit": "968ad416f0db13a35a1e0c09a4033c262a8f57aa"
+    },
+    "email": "frederico.souza@willbank.com.br",
+    "root": "/home/frederico.souza/Repos_personal/genre_classification",
+    "host": "NB-WILL1935",
+    "username": "frederico.souza",
+    "executable": "/home/frederico.souza/miniconda3/envs/mlflow-4e3e2a6b03797b2cb1b855c0309bd78ecd563634/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2080.89325,
+        "min": 400.0,
+        "max": 4800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4047.146,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 4800.0
+        }
+    ],
+    "disk": {
+        "total": 231.5443458557129,
+        "used": 83.26752471923828
+    },
+    "memory": {
+        "total": 30.763294219970703
+    }
+}

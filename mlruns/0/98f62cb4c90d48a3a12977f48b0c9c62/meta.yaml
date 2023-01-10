@@ -1,0 +1,16 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/98f62cb4c90d48a3a12977f48b0c9c62/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 98f62cb4c90d48a3a12977f48b0c9c62
+run_uuid: 98f62cb4c90d48a3a12977f48b0c9c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673305848474
+status: 1
+tags: []
+user_id: frederico.souza

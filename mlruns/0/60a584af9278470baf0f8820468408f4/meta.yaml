@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/60a584af9278470baf0f8820468408f4/artifacts
+end_time: 1673315210702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60a584af9278470baf0f8820468408f4
+run_name: stately-shrike-162
+run_uuid: 60a584af9278470baf0f8820468408f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673315135293
+status: 4
+tags: []
+user_id: frederico.souza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/e93874cf38b9477089feaa4ddc10166f/artifacts
+end_time: 1673314723358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e93874cf38b9477089feaa4ddc10166f
+run_name: youthful-sow-701
+run_uuid: e93874cf38b9477089feaa4ddc10166f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673314668104
+status: 3
+tags: []
+user_id: frederico.souza

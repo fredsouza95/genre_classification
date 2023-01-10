@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/d2470520184b49f0adea74185b13d28d/artifacts
+end_time: 1673315675425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2470520184b49f0adea74185b13d28d
+run_name: mysterious-hog-8
+run_uuid: d2470520184b49f0adea74185b13d28d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673315434608
+status: 3
+tags: []
+user_id: frederico.souza

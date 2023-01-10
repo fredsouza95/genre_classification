@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/72e46408b1704bba8633ba26ce040f33/artifacts
+end_time: 1673314984936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72e46408b1704bba8633ba26ce040f33
+run_name: rambunctious-auk-834
+run_uuid: 72e46408b1704bba8633ba26ce040f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673314735479
+status: 4
+tags: []
+user_id: frederico.souza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/831b734615e248f096befb62849fe550/artifacts
+end_time: 1673312814874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 831b734615e248f096befb62849fe550
+run_name: bold-frog-764
+run_uuid: 831b734615e248f096befb62849fe550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673312792077
+status: 4
+tags: []
+user_id: frederico.souza

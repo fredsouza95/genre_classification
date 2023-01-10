@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/7eb0b81c99de40a5803b1b02655ceaf9/artifacts
+end_time: 1673314243481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb0b81c99de40a5803b1b02655ceaf9
+run_name: bouncy-sloth-689
+run_uuid: 7eb0b81c99de40a5803b1b02655ceaf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673314070594
+status: 4
+tags: []
+user_id: frederico.souza

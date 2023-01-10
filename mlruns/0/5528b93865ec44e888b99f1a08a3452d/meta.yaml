@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/5528b93865ec44e888b99f1a08a3452d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5528b93865ec44e888b99f1a08a3452d
+run_name: burly-hare-785
+run_uuid: 5528b93865ec44e888b99f1a08a3452d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673310888541
+status: 1
+tags: []
+user_id: frederico.souza

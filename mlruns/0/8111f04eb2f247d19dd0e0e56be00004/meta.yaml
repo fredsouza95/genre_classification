@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/8111f04eb2f247d19dd0e0e56be00004/artifacts
+end_time: 1673312837244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8111f04eb2f247d19dd0e0e56be00004
+run_name: fearless-swan-850
+run_uuid: 8111f04eb2f247d19dd0e0e56be00004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673312822041
+status: 3
+tags: []
+user_id: frederico.souza

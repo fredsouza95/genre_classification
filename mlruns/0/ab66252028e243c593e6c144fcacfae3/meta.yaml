@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/ab66252028e243c593e6c144fcacfae3/artifacts
+end_time: 1673345940422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab66252028e243c593e6c144fcacfae3
+run_name: bemused-bear-432
+run_uuid: ab66252028e243c593e6c144fcacfae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673345756550
+status: 3
+tags: []
+user_id: frederico.souza

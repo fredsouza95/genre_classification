@@ -1,0 +1,15 @@
+artifact_uri: file:///home/frederico.souza/Repos_personal/genre_classification/mlruns/0/6d6d54cd04c44689b6c78e0beb40fa8e/artifacts
+end_time: 1673313741561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d6d54cd04c44689b6c78e0beb40fa8e
+run_name: fun-goat-283
+run_uuid: 6d6d54cd04c44689b6c78e0beb40fa8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673313508376
+status: 3
+tags: []
+user_id: frederico.souza
